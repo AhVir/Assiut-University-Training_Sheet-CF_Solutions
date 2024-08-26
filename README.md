@@ -2,4 +2,4 @@
 
 Progress:
 
-1. Sheet 01 -> Completed
+1. Sheet 01 -> <b>Completed</b>
