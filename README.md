@@ -1,4 +1,4 @@
-# Assiut-University-Training_Sheet-CF_Solutions
+﻿# Assiut University Training - Newcomers Sheet & Contest Solutions 
 <b>Link:</b> https://codeforces.com/group/MWSDmqGsZm/contests <br><br>
 Progress:
 
