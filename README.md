@@ -4,4 +4,5 @@ Progress:
 
 1. Sheet 01 -> <b>Completed</b>
 2. Contest 01 -> <b>Completed</b>
-3. Sheet 02 -> <b>currently working</b>
+3. Sheet 02 -> <b>Completed</b>
+4. Contest 02 -> <b><ins>On Progress</ins></b>
